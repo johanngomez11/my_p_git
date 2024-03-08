@@ -47,5 +47,7 @@ operaciones como un campo indispensable para la toma de decisiones estratégicas
 y operativas en diversos ámbitos.
 
 ```
-Github
+Github, Gitlab y Bitbucket
 ```
+
+Cambio desde el repositorio origin
